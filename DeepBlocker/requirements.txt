@@ -1,0 +1,9 @@
+# For DeepBlocker
+fasttext-wheel
+numpy
+pandas
+pathlib
+scipy
+scikit-learn
+torch
+torchtext

@@ -1,0 +1,11 @@
+lib
+share
+include
+bin
+embedding
+lib64
+__pycache__
+logs
+results
+models
+pyvenv.cfg
