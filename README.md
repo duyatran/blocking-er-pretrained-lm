@@ -1,6 +1,6 @@
 ## Pretrained Language Models for Blocking in Entity Resolution (ER)
 ### Introduction
-- Achieved state-of-the-art results for ER's blocking step for a deep-learning-based method
+- Achieved state-of-the-art results for ER's blocking step (for deep-learning-based methods) with [TSDAE](https://github.com/UKPLab/sentence-transformers/tree/master/examples/unsupervised_learning/TSDAE)
 - Project for UofT's [CSC2508 - Advanced Data Management System](https://koudas.github.io/csc2508-fall2022.html)
 - See [technical report](https://github.com/duyatran/blocking-proj/blob/master/%5BCSC2508%5D%20Duy%20Tran%20-%20Project%20Report.pdf) for more details
 
